@@ -1,0 +1,16 @@
+bbd3\message_queue_api.o: ..\Application\src\message_queue_api.c
+bbd3\message_queue_api.o: ..\Application\inc\message_queue_api.h
+bbd3\message_queue_api.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+bbd3\message_queue_api.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+bbd3\message_queue_api.o: ..\Application\inc\buffer_api.h
+bbd3\message_queue_api.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+bbd3\message_queue_api.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bbd3\message_queue_api.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+bbd3\message_queue_api.o: ../Core/Inc/FreeRTOSConfig.h
+bbd3\message_queue_api.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bbd3\message_queue_api.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bbd3\message_queue_api.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bbd3\message_queue_api.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+bbd3\message_queue_api.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bbd3\message_queue_api.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+bbd3\message_queue_api.o: ..\Application\inc\error_handling_api.h

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "buffer_api.h": "c",
+        "stm32f3xx_ll_bus.h": "c",
+        "message_queue_api.h": "c",
+        "stm32f3xx_ll_usart.h": "c",
+        "semphr.h": "c",
+        "stm32f3xx_it.h": "c",
+        "gpio.h": "c",
+        "error_handling_api.h": "c"
+    }
+}
